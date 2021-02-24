@@ -3,7 +3,7 @@
 
 #javascript30
 
-TODO
+TODO \
 [] Add click event to related sounds \
 [] Add new styling into container \
 [] Responsive layout 
